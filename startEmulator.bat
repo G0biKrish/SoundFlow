@@ -1,0 +1,1 @@
+C:\Users\SURYA\AppData\Local\Android\Sdk\emulator\emulator -avd Pixel_6a
