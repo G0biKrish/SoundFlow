@@ -53,7 +53,7 @@ SoulSound  is a sleek, modern, offline-first music player built with Flutter. It
 ### v1.1.0 - The Playlist Update
 ## 🌟 New Features
 -   **Rich Playlist Creation**: Redesigned creation dialog with a premium dark theme.
--   **Customization**: Added support for picking custom icons (12 presets) or uploading cover images from the gallery.
+-   **Customization**: Added support for picking custom icons (12 presets) or uploading cover images from the gallery .
 -   **Safe Storage**: Automated secure storage for playlist artwork.
 -   **Smart Playlists**: Added "Most Played" and "Liked Songs" auto-generated playlists.
 
